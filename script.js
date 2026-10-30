@@ -12,8 +12,8 @@
    ===================================================================== */
 const CONFIG = {
   CA: 'TBA',
-  X: '',
-  TG: '',
+  X: 'https://x.com/uodfbase',
+  TG: 'https://t.me/uodfbase',
   CHAIN: 'base'
 };
 
